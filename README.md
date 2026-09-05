@@ -2,11 +2,14 @@
 
 I'm a Fullstack Developer passionate about building clean, efficient, and modern web applications.
 
+After 26 years in manufacturing — most recently setting up and operating injection molding machines — I made the switch to software development. I bring with me a hands-on, problem-solving mindset and a deep respect for things that work reliably.
+
 ---
 
 ## About Me
 
 - 💻 Fullstack developer (HTML, CSS, JavaScript/TypeScript, React, Node.js, Express)
+- 🏭 Former industrial technician: machine operator, workshop technical assistant, injection molding setter (with 3-axis robots)
 - 📚 Continuously learning new technologies and frameworks
 - 🕹️ Enjoy working on interesting side projects
 - 🎓 Graduate – Concepteur Développeur d'Applications at [O'clock](https://oclock.io/)
